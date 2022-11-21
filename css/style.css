@@ -1,0 +1,23 @@
+form{
+    width: 60%;
+    margin:auto;
+}
+
+div#alert-div{
+    display: none;
+}
+a.alert-link{
+    margin: 10px;
+    font-weight: 400;
+    text-decoration: none;
+    border: 1px solid;
+    padding: 8px;
+    border-radius: 6px;
+    background-color: rgb(10, 38, 15);
+    color: whitesmoke !important;
+}
+
+
+th, td{
+    vertical-align: middle;
+}
